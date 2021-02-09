@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29920.165
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DogFood", "DogFoodApi\DogFood.csproj", "{BBCD6F86-1AA7-4F66-A675-B4450D7C84B5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+		Staging|Any CPU = Staging|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BBCD6F86-1AA7-4F66-A675-B4450D7C84B5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BBCD6F86-1AA7-4F66-A675-B4450D7C84B5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BBCD6F86-1AA7-4F66-A675-B4450D7C84B5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BBCD6F86-1AA7-4F66-A675-B4450D7C84B5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BBCD6F86-1AA7-4F66-A675-B4450D7C84B5}.Staging|Any CPU.ActiveCfg = Release|Any CPU
+		{BBCD6F86-1AA7-4F66-A675-B4450D7C84B5}.Staging|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D86623FA-71B9-41BB-9CFD-B5D4337DD15D}
+	EndGlobalSection
+EndGlobal
